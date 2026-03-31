@@ -1,5 +1,6 @@
 ## Hi there 👋
-# 👋 Hey, I'm Shoury Pratap Singh (Pratap)
+# 👋 Hey, I'm Shoury Pratap Singh
+
 
 🎤 Rapper | ✍️ Lyricist | 💻 Beginner Programmer  
 
